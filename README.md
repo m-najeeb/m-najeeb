@@ -25,4 +25,3 @@ Hi, I'm **Muhammad Najeeb** – a passionate **Front-End Developer** from Lahore
 ## 🌐 Connect with Me
 - 📧 [muhammadnajeeb2022@gmail.com](mailto:muhammadnajeeb2022@gmail.com)  
 - 📱 +92 310 0996993  
-- 🌍 [Terno Technologies Website](https://ternotechnologies.co.uk/)
